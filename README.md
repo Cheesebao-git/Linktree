@@ -4,7 +4,7 @@ Click on the image to see the website =)
 
 <h1 align="center">
     <a href="[chullie03.github.io/Linktree/](https://chullie03.github.io/Linktree/)" target="_blank">
-        <img alt="website printscreen" title="#instalink" src="github_assets/screenmobile2.png" />
+        <img alt="website" title="#instalink" src="github_assets/screenmobile2.png" />
     <a/>
 </h1>
 
